@@ -1,0 +1,20 @@
+﻿Model,Order,Feature
+Age only,1,年紀
+MMSE only,1,測驗時MMSE
+Top 5 features + Age,1,椅子起站測試:連續站立坐下五次的時間(秒數)
+Top 5 features + Age,2,總體閱讀時間(秒)
+Top 5 features + Age,3,平均固視時間(秒)
+Top 5 features + Age,4,較長固視點數量 ( 1000 ms以上 )
+Top 5 features + Age,5,總體固視時間(秒)
+Top 5 features + Age,6,年紀
+Top 10 features + Age,1,椅子起站測試:連續站立坐下五次的時間(秒數)
+Top 10 features + Age,2,總體閱讀時間(秒)
+Top 10 features + Age,3,平均固視時間(秒)
+Top 10 features + Age,4,較長固視點數量 ( 1000 ms以上 )
+Top 10 features + Age,5,總體固視時間(秒)
+Top 10 features + Age,6,教育年數
+Top 10 features + Age,7,較長固視點數量 ( 300-1000 ms )
+Top 10 features + Age,8,椅子起站測試:連續站立坐下五次的分數
+Top 10 features + Age,9,固視點數量
+Top 10 features + Age,10,正確次數
+Top 10 features + Age,11,年紀

@@ -1,0 +1,21 @@
+﻿Model,Order,Feature
+Age only,1,年紀
+MoCA only,1,MoCA
+Top 5 features + Age,1,"B
+M
+I"
+Top 5 features + Age,2,文字_時間分數
+Top 5 features + Age,3,記憶力_總分
+Top 5 features + Age,4,記憶力_正確率
+Top 5 features + Age,5,記憶力_時間分數
+Top 5 features + Age,6,年紀
+Top 7 features + Age,1,"B
+M
+I"
+Top 7 features + Age,2,文字_時間分數
+Top 7 features + Age,3,記憶力_總分
+Top 7 features + Age,4,記憶力_正確率
+Top 7 features + Age,5,記憶力_時間分數
+Top 7 features + Age,6,反向數字串_時間分數
+Top 7 features + Age,7,未作答次數
+Top 7 features + Age,8,年紀

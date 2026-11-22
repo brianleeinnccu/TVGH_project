@@ -1,0 +1,17 @@
+﻿Model,Order,Feature,Missing_N,Missing_Rate
+Age only,1,年紀,0,0.0
+MoCA only,1,MoCA,2,0.010810810810810811
+Top 5 features + Age,1,BMI,2,0.010810810810810811
+Top 5 features + Age,2,文字_時間分數,0,0.0
+Top 5 features + Age,3,記憶力_總分,0,0.0
+Top 5 features + Age,4,記憶力_正確率,0,0.0
+Top 5 features + Age,5,記憶力_時間分數,0,0.0
+Top 5 features + Age,6,年紀,0,0.0
+Top 7 features + Age,1,BMI,2,0.010810810810810811
+Top 7 features + Age,2,文字_時間分數,0,0.0
+Top 7 features + Age,3,記憶力_總分,0,0.0
+Top 7 features + Age,4,記憶力_正確率,0,0.0
+Top 7 features + Age,5,記憶力_時間分數,0,0.0
+Top 7 features + Age,6,反向數字串_時間分數,0,0.0
+Top 7 features + Age,7,未作答次數,0,0.0
+Top 7 features + Age,8,年紀,0,0.0

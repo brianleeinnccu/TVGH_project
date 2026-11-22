@@ -1,0 +1,31 @@
+﻿Model,Order,Feature
+Age only,1,年紀
+MoCA only,1,MoCA
+Top 5 features + Age,1,椅子起站測試:連續站立坐下五次的時間(秒數)
+Top 5 features + Age,2,總分
+Top 5 features + Age,3,椅子起站測試:連續站立坐下五次的分數
+Top 5 features + Age,4,正確次數
+Top 5 features + Age,5,定向_總分
+Top 5 features + Age,6,年紀
+Top 10 aggregate + Age,1,椅子起站測試:連續站立坐下五次的時間(秒數)
+Top 10 aggregate + Age,2,總分
+Top 10 aggregate + Age,3,椅子起站測試:連續站立坐下五次的分數
+Top 10 aggregate + Age,4,正確次數
+Top 10 aggregate + Age,5,定向_正確率
+Top 10 aggregate + Age,6,解謎_正確率
+Top 10 aggregate + Age,7,文字_正確率
+Top 10 aggregate + Age,8,反向數字串_時間分數
+Top 10 aggregate + Age,9,定向_時間分數
+Top 10 aggregate + Age,10,數字串_時間分數
+Top 10 aggregate + Age,11,年紀
+Top 10 domain + Age,1,椅子起站測試:連續站立坐下五次的時間(秒數)
+Top 10 domain + Age,2,椅子起站測試:連續站立坐下五次的分數
+Top 10 domain + Age,3,正確次數
+Top 10 domain + Age,4,定向_總分
+Top 10 domain + Age,5,文字_總分
+Top 10 domain + Age,6,定向_正確率
+Top 10 domain + Age,7,解謎_總分
+Top 10 domain + Age,8,解謎_正確率
+Top 10 domain + Age,9,文字_正確率
+Top 10 domain + Age,10,反向數字串_時間分數
+Top 10 domain + Age,11,年紀

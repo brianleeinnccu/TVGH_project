@@ -1,0 +1,31 @@
+﻿Model,Order,Feature,Missing_N,Missing_Rate
+Age only,1,年紀,0,0.0
+MMSE only,1,測驗時MMSE,0,0.0
+Top 5 features + Age,1,總體閱讀時間(秒),3,0.01639344262295082
+Top 5 features + Age,2,平衡總分,1,0.00546448087431694
+Top 5 features + Age,3,固視點數量,3,0.01639344262295082
+Top 5 features + Age,4,總體固視時間(秒),3,0.01639344262295082
+Top 5 features + Age,5,總分,0,0.0
+Top 5 features + Age,6,年紀,0,0.0
+Top 10 aggregate + Age,1,總體閱讀時間(秒),3,0.01639344262295082
+Top 10 aggregate + Age,2,平衡總分,1,0.00546448087431694
+Top 10 aggregate + Age,3,固視點數量,3,0.01639344262295082
+Top 10 aggregate + Age,4,總體固視時間(秒),3,0.01639344262295082
+Top 10 aggregate + Age,5,總分,0,0.0
+Top 10 aggregate + Age,6,椅子起站測試:連續站立坐下五次的時間(秒數),8,0.04371584699453552
+Top 10 aggregate + Age,7,正確次數,0,0.0
+Top 10 aggregate + Age,8,錯誤次數,0,0.0
+Top 10 aggregate + Age,9,文字_正確率,0,0.0
+Top 10 aggregate + Age,10,教育年數,136,0.7431693989071039
+Top 10 aggregate + Age,11,年紀,0,0.0
+Top 10 domain + Age,1,總體閱讀時間(秒),3,0.01639344262295082
+Top 10 domain + Age,2,平衡總分,1,0.00546448087431694
+Top 10 domain + Age,3,固視點數量,3,0.01639344262295082
+Top 10 domain + Age,4,總體固視時間(秒),3,0.01639344262295082
+Top 10 domain + Age,5,椅子起站測試:連續站立坐下五次的時間(秒數),8,0.04371584699453552
+Top 10 domain + Age,6,正確次數,0,0.0
+Top 10 domain + Age,7,錯誤次數,0,0.0
+Top 10 domain + Age,8,文字_總分,0,0.0
+Top 10 domain + Age,9,文字_正確率,0,0.0
+Top 10 domain + Age,10,教育年數,136,0.7431693989071039
+Top 10 domain + Age,11,年紀,0,0.0

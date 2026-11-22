@@ -1,0 +1,20 @@
+﻿Model,Order,Feature
+Age only,1,年紀
+MMSE only,1,測驗時MMSE
+8 features,1,定向_總分
+8 features,2,數字串_總分
+8 features,3,記憶力_總分
+8 features,4,反向數字串_總分
+8 features,5,文字_總分
+8 features,6,解謎_總分
+8 features,7,總體閱讀時間(秒)
+8 features,8,固視點數量
+8 features + Age,1,定向_總分
+8 features + Age,2,數字串_總分
+8 features + Age,3,記憶力_總分
+8 features + Age,4,反向數字串_總分
+8 features + Age,5,文字_總分
+8 features + Age,6,解謎_總分
+8 features + Age,7,總體閱讀時間(秒)
+8 features + Age,8,固視點數量
+8 features + Age,9,年紀
